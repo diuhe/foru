@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Ghê iu của dịu hè à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao êm cứ đi nhầm đường
+    Lạc vào tim ank lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnIntro: 'hehehehehehe',
+    title: 'Trả lừi câu hỏi có thưởng',
+    desc: 'Có iu dịu hè khong ',
+    btnYes: 'Tất nhiên là cóa gòi',
+    btnNo: 'Đeo =)))',
+    question:'Trên thế giới hơn 7 tỉ người mà sao êm ghệ lại iu dịu hè',
+    btnReply: 'Gửi cho ank dịu hè',
+    reply: 'Iu thì cứ iu mà không iu thì cũng phải iu',
+    mess: 'Dịu hè bít các con ghệ iu dịu hè mà',
+    messDesc: 'Dịu hè cũng gất iu các ghệ',
+    btnAccept: 'Ấn phím nầy để iu dịu hè nhìu hơn',
+    messLink: 'Cho dịu hè 400 tỷ won cứi Min Yoongi i' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
