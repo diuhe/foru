@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Iu thì cứ iu mà không iu thì cũng phải iu',
     mess: 'Dịu hè bít các con ghệ iu dịu hè mà',
     messDesc: 'Dịu hè cũng gất iu các ghệ',
-    btnAccept: 'Ấn phím nầy để iu dịu hè nhìu hơn',
-    messLink: 'Cho dịu hè 400 tỷ won cứi Min Yoongi i' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'Ấn phím nầy để nhận tình iu từ dịu hè ',
+    messLink: 'https://image.marriage.com/advice/wp-content/uploads/2020/10/Love-Memes-15.jpg' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
